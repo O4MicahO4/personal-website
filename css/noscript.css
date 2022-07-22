@@ -1,0 +1,23 @@
+/* noscipt.css */
+
+/* wrapper */
+
+	#wrapper {
+		opacity: 1 !important;
+	}
+
+/* overlay */
+
+	#overlay {
+		opacity: 1 !important;
+	}
+
+/* header */
+
+	#header {
+		opacity: 1 !important;
+	}
+
+		#header nav li {
+			opacity: 1 !important;
+		}
