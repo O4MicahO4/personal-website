@@ -156,7 +156,7 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* banner */
+/* callout */
 
 @-moz-keyframes callout {
 		0% {
@@ -172,7 +172,7 @@ input, select, textarea {
 			-webkit-transform: translate3d(0,0,0);
 			-ms-transform: translate3d(0,0,0);
 			transform: translate3d(0,0,0);
-			opacity: 60%;
+			opacity: 75%;
 		}
 	}
 
@@ -190,7 +190,7 @@ input, select, textarea {
 			-webkit-transform: translate3d(0,0,0);
 			-ms-transform: translate3d(0,0,0);
 			transform: translate3d(0,0,0);
-			opacity: 60%;
+			opacity: 75%;
 		}
 	}
 
@@ -208,7 +208,7 @@ input, select, textarea {
 			-webkit-transform: translate3d(0,0,0);
 			-ms-transform: translate3d(0,0,0);
 			transform: translate3d(0,0,0);
-			opacity: 60%;
+			opacity: 75%;
 		}
 	}
 
@@ -226,7 +226,7 @@ input, select, textarea {
 			-webkit-transform: translate3d(0,0,0);
 			-ms-transform: translate3d(0,0,0);
 			transform: translate3d(0,0,0);
-			opacity: 60%;
+			opacity: 75%;
 		}
 	}
 
@@ -356,7 +356,6 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-
 		background: #e6a392 url("images/background.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
@@ -432,7 +431,7 @@ input, select, textarea {
 
 	#background {
 		background-size: 2250px auto;
-		width: 3620px;
+		width: 3620px auto;
 	}
 
 /* overlay */
