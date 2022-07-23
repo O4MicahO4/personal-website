@@ -431,7 +431,7 @@ input, select, textarea {
 
 	#background {
 		background-size: 2250px auto;
-		width: 3620px auto;
+		width: 3620px;
 	}
 
 /* overlay */
